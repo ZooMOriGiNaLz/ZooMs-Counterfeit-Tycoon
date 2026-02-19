@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ZCT/ZCT.vcxproj" Id="b91a1acb-cc22-4ed2-a3cc-2c6253886075" />
+</Solution>
